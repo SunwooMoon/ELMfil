@@ -8,13 +8,6 @@ ELM filament heat load
    :numbered:
    :caption: Table of Contents
 
-   intro/smiter
-   tutorial/index
-   elmer/index
-   howto/index
-   component/index
-   resources
-
 .. conventions
 
     # with overline, for parts
